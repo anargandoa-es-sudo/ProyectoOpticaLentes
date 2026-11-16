@@ -1,0 +1,10 @@
+# Entornos virtuales y credenciales
+backend/venv/
+backend/.env
+.env
+__pycache__/
+*.pyc
+
+# Dependencias de Node y compilaciones
+frontend/node_modules/
+frontend/dist/

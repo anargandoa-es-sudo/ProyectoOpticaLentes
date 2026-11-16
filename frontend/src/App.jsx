@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import VisorLentes3D from './VisorLentes3D';
 
-const API_URL = 'http://127.0.0.1:8000';
+const API_URL = 'https://optica-vision-api.onrender.com';
 
 const PALETA_COLORES = [
   { nombre: 'Negro Mate', hex: '#1e293b' },
